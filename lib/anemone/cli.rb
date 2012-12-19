@@ -14,6 +14,7 @@ useful information about pages it visits.
 
 Usage:
   anemone <command> [arguments]
+  test
 
 Commands:
   #{COMMANDS.join(', ')}
