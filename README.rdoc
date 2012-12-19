@@ -25,6 +25,8 @@ See the scripts under the <tt>lib/anemone/cli</tt> directory for examples of sev
 * nokogiri
 * robots
 
+test de vincent pour frank
+
 == Development
 To test and develop this gem, additional requirements are:
 * rspec
