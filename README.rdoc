@@ -27,6 +27,7 @@ See the scripts under the <tt>lib/anemone/cli</tt> directory for examples of sev
 * robots
 
 test de vincent pour frank
+dqdsqdlsqkjdqlkjl
 
 == Development
 To test and develop this gem, additional requirements are:
